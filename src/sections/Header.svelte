@@ -77,7 +77,7 @@
 <div class="header-container container-fluid {isMobile ? 'mobile' : ''}">
   <div class="header">
     <div class="buttons-container" on:click={handleNavigation}>
-      <button class="links" data-id="expertise">Intro</button>
+      <button class="links" data-id="intro">Intro</button>
       <button class="links" data-id="certificates">Certificates</button>
       <a target="_blank" href="./src/images/resume.pdf" class="links">Resume</a>
     </div>

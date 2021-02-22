@@ -1,5 +1,6 @@
 <script>
   import Image from "../components/Image.svelte";
+  import SectionHeading from "../components/SectionHeading.svelte";
   import About from "./About.svelte";
 
   export let isMobile;
@@ -22,12 +23,13 @@
   }
 </style>
 
-<div class="intro-container container-fluid {isMobile ? 'mobile' : ''}">
+<div class="intro-container container-fluid {isMobile ? 'mobile' : ''}" id="intro">
   <div class="intro-image">
     <Image src={'src/images/intro.png'} />
     <h3 class="name">Kriti</h3>
   </div>
   <div class="intro-text">
+    <SectionHeading heading={'About me'}  center={false}/>
     <p>
       I am a post graduate in Economics and currently pursuing B.Ed from
       Chitkara College of Education, Chitkara University.
