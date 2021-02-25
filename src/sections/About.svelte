@@ -1,12 +1,12 @@
 <div class="about-container">
-  <h3>My professional Mission</h3>
+  <h3 class="sub-heading">My professional Mission</h3>
   <p>
     My mission as an educator is to promote inclusion of different kinds of
     learner, encourage them and work on them for their holistic development by
     inculcating in them the passion for learning and creating quality
     relationships, so that they grow up to be independent and critical thinkers.
   </p>
-  <h3>My Beliefs</h3>
+  <h3 class="sub-heading">My Beliefs</h3>
   <p>
     I believe that students are capable of doing everything they want and all
     they need is a little push in the right direction. I believe that I, as a

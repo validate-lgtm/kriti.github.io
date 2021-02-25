@@ -1,9 +1,10 @@
 :root {
-    --primary: #131840;
-    --secondry: #deb525;
+    --primary: #1c2c54;
+    --secondry: #041C94;
     --bg-grey: #f4f4f4;
     --text-grey: #7a7a7a;
     --border-grey: #b7b7b7;
+    --heading: #196DDC;
     --sm: 14px;
     --md1: 18px;
     --md: 20px;
@@ -21,12 +22,12 @@ body {
 }
 
 body {
-    color: black;
+    color:var(--primary);
     background-color: #ffffff;
     margin: 0;
     box-sizing: border-box;
     font-weight: 400;
-    font-family: "Nunito Sans", sans-serif;
+    font-family: "Playfair Display", sans-serif;
 }
 
 button {
@@ -48,10 +49,16 @@ button {
     padding-top: 40px;
 }
 
+.sub-heading {
+    color: var(--secondry);
+    letter-spacing: 0.5px;
+}
+
 .container-heading {
     font-size: var(--xl);
     text-align: center;
-    padding: 32px 0;
+    padding: 24px 0;
+    letter-spacing: 1px;
 }
 
 .container-subheading {

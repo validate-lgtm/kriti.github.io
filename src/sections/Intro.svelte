@@ -26,7 +26,7 @@
 <div class="intro-container container-fluid {isMobile ? 'mobile' : ''}" id="intro">
   <div class="intro-image">
     <Image src={'src/images/intro.png'} />
-    <h3 class="name">Kriti</h3>
+    <h3 class="name sub-heading">Kriti</h3>
   </div>
   <div class="intro-text">
     <SectionHeading heading={'About me'}  center={false}/>

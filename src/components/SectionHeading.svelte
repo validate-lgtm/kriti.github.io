@@ -12,7 +12,9 @@
 </style>
 
 <div class={containerClass}>
-  <div class="container-heading bold {!center ? 'left' : ''}">{heading}</div>
+  <div class="container-heading sub-heading bold {!center ? 'left' : ''}">
+    {heading}
+  </div>
   {#if subHeading}
     <div class="center text-grey container-subheading thin xxl-h-padding">
       {@html subHeading}
