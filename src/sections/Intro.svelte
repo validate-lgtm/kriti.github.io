@@ -48,8 +48,7 @@
       exploring new things and places.
     </p>
     <p>
-      I am very dedicated and self motivated in addition to this In addition to
-      this I strive to perfect every task I take up.
+      I am very dedicated and self motivated in addition to this I strive to perfect every task I take up.
     </p>
     <p>
       I have imbibed my disciplined behavior from my mother's lifestyle and it
