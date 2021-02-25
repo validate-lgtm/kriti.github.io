@@ -1,5 +1,5 @@
 <div class="about-container">
-  <h3 class="sub-heading">My professional Mission</h3>
+  <h3 class="sub-heading">My Professional Mission</h3>
   <p>
     My mission as an educator is to promote inclusion of different kinds of
     learner, encourage them and work on them for their holistic development by
@@ -16,10 +16,12 @@
   <p>
     I believe that teachers have an obligation to design environments that
     maximize the potential for the students to have meaningful and
-    transformative learning experiences Teachers must educate their students and
-    teach them the skills needed in the practical world. I believe that not only
-    teachers, but families and communities all work and support each other in
-    enriching the life of a child.
+    transformative learning experiences.
+  </p>
+  <p>
+    Teachers must educate their students and teach them the skills needed in the
+    practical world. I believe that not only teachers, but families and
+    communities all work and support each other in enriching the life of a
+    child.
   </p>
 </div>
-
