@@ -42,6 +42,13 @@
         <img src="./src/images/kriti2.png" alt="cert2" />
         <img src="./src/images/kriti3.png" alt="cert3" />
         <img src="./src/images/kriti4.png" alt="cert4" />
+                <img src="./src/images/1.png" alt="cert4" />
+                <img src="./src/images/2.png" alt="cert4" />
+                <img src="./src/images/3.png" alt="cert4" />
+                <img src="./src/images/4.png" alt="cert4" />
+                <img src="./src/images/5.png" alt="cert4" />
+                <img src="./src/images/6.png" alt="cert4" />
+                <img src="./src/images/7.png" alt="cert4" />
       </div>
     </div>
     <div class="glide__bullets">
