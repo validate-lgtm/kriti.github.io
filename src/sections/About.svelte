@@ -8,20 +8,12 @@
   </p>
   <h3 class="sub-heading">My Beliefs</h3>
   <p>
-    I believe that students are capable of doing everything they want and all
-    they need is a little push in the right direction. I believe that I, as a
-    teacher, am teaching individuals instead of a class, who contribute to the
-    teaching environment.
+    I believe every child is unique in its own way and as a teacher it is my responsibility to help them identify their uniqueness and help them to make the best use of their potential. 
   </p>
   <p>
-    I believe that teachers have an obligation to design environments that
-    maximize the potential for the students to have meaningful and
-    transformative learning experiences.
+    I believe as a teacher its my duty to understand kids with diverse needs and provide my assistance in the required way.
   </p>
   <p>
-    Teachers must educate their students and teach them the skills needed in the
-    practical world. I believe that not only teachers, but families and
-    communities all work and support each other in enriching the life of a
-    child.
+    I believe students grow as best individuals only when nurtured with love and affection and as a teacher its important for me to provide them with the same.
   </p>
 </div>
