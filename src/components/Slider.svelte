@@ -25,12 +25,15 @@
 
 <style>
   .list {
-    /* min-height: 350px;
-    height: 100%; */
+    /* max-height: 350px; */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
+  }
+  .list > img {
+    height: 650px;
+    width: 500px;
   }
 </style>
 
